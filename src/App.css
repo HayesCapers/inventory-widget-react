@@ -1,0 +1,28 @@
+.container{
+
+}
+
+.filterable-product-table{
+  margin-top: 50px;
+  text-align: center;
+  border: 1px solid #CACACA;
+}
+
+.search-bar-wrapper{
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-bottom: 1px solid #CACACA;
+}
+
+.ham{
+  text-align: center;
+}
+
+.good{
+  color: #0ef4b7;
+}
+
+.bad{
+  color: #f975b7;
+}
+
